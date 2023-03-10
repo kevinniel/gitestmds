@@ -1,0 +1,1 @@
+https://www.linkedin.com/in/l%C3%A9o-crasnier-311a631b7/
