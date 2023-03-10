@@ -33,3 +33,4 @@ Reste à voir :
 - git flow
 - gitignore
 - issues ? milestones ?
+- git blame
