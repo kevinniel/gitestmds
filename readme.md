@@ -28,6 +28,9 @@
     - vous pouvez travailler dessus comme vous le souhaitez
 - PR : 
     - permet de proposer des modifications, qui doivent être discuter et / ou acceptées
+- .gitignore
+    - Permet de lister les fichiers / dossiers à ne pas intégrer dans GIT
+
 
 Reste à voir :
 - git flow
