@@ -42,3 +42,5 @@
     - https://git-flow.readthedocs.io/fr/latest/presentation.html
 - gitmoji
     - https://gitmoji.dev/
+- Nommage des commits
+    - https://www.conventionalcommits.org/en/v1.0.0/
