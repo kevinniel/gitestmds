@@ -44,3 +44,56 @@
     - https://gitmoji.dev/
 - Nommage des commits
     - https://www.conventionalcommits.org/en/v1.0.0/
+
+# TP
+
+## Groupes : 
+
+- G1
+    - Thibault Dequidt (Responsable)
+    - Paul Rinfray
+    - Eliott Le Duc
+    - Leo Teixeira
+- G2
+    - Leon Cha
+    - Damien Dubernet
+    - Tristan Bossard (Responsable)
+    - Clément Paquentin
+- G3
+    - Louis Maze
+    - Lazare Mouzet (Responsable)
+    - Maxence Cailleau
+    - Leo Gautret
+- G4
+    - Elhoucine Essayad
+    - Théo Maxime (Responsable)
+    - Yassine Bouhi
+    - Anaelle Thiers
+- G5
+    - Nathan Gaulard
+    - Nathan Greffier
+    - Leo Crasnier
+    - Bastien Metais (Responsable)
+
+## Énoncé
+
+Réaliser un cours de Shell (Bash) en markdown 😁
+
+## Organisation
+
+Vous devez définir un chef de groupe, qui sera responsable du repository ET de la gestions des Pull Requests (rôle lead dev).
+
+Chaque groupe doit travailler sur 1 repository unique (propriété du lead dev) et tous les membres du groupe doivent être mis en tant que Collaborateur.
+
+Le Lead Dev devra commencer par organiser des issues et des Milestones. Chaque issue devra être assignée et un temps de réalisation devra être renseigné.
+
+## Livrables
+
+1 repository contenant : 
+
+- 1 fichier readme.md, qui correspond à un sommaire de tous les cours que vous allez réaliser.
+- 1 dossier par milestone (qui contiendra les markdown)
+- 1 fichier markdown par cours (rangés dans les dossiers des milestones). Chaque cours devra être explicite, présenter la commande / fonction concernée, et intégrer un ou plusieurs exercices pour permettre de pratiquer ! (1 cours = 1 notion)
+
+
+
