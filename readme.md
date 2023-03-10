@@ -49,7 +49,7 @@
 
 ## Groupes : 
 
-- G1
+- G1 - https://github.com/thibode/bashcoursgroupe1
     - Thibault Dequidt (Responsable)
     - Paul Rinfray
     - Eliott Le Duc
@@ -64,7 +64,7 @@
     - Lazare Mouzet (Responsable)
     - Maxence Cailleau
     - Leo Gautret
-- G4
+- G4 - https://github.com/theomax13/shellGroupe4
     - Elhoucine Essayad
     - Théo Maxime (Responsable)
     - Yassine Bouhi
