@@ -34,3 +34,4 @@ Reste à voir :
 - gitignore
 - issues ? milestones ?
 - git blame
+- alias
