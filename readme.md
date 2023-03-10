@@ -38,11 +38,7 @@
     - Peut etre automatiquement fermée par un commit en précisant "Fix" et le numéro de l'issue en message de commit (ex : "Fix #20" ferme l'issue #20)
 - alias
     - Permet de créer des raccourcis pour les commandes shell. Ex : ```alias .="cd .."```
-
-
-
-
-Reste à voir :
 - git flow
+    - https://git-flow.readthedocs.io/fr/latest/presentation.html
 
 TP - shell
