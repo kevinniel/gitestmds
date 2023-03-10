@@ -69,7 +69,7 @@
     - Théo Maxime (Responsable)
     - Yassine Bouhi
     - Anaelle Thiers
-- G5
+- G5 - https://github.com/BastiennM/shellGroup5
     - Nathan Gaulard
     - Nathan Greffier
     - Leo Crasnier
