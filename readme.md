@@ -59,7 +59,7 @@
     - Damien Dubernet
     - Tristan Bossard (Responsable)
     - Clément Paquentin
-- G3
+- G3 - https://github.com/Lazosaure/mds_grp3
     - Louis Maze
     - Lazare Mouzet (Responsable)
     - Maxence Cailleau
