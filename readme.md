@@ -54,7 +54,7 @@
     - Paul Rinfray
     - Eliott Le Duc
     - Leo Teixeira
-- G2
+- G2 - https://github.com/yoshiTorisutan-web/MDS_BASH_GRP2
     - Leon Cha
     - Damien Dubernet
     - Tristan Bossard (Responsable)
