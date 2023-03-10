@@ -40,5 +40,5 @@
     - Permet de créer des raccourcis pour les commandes shell. Ex : ```alias .="cd .."```
 - git flow
     - https://git-flow.readthedocs.io/fr/latest/presentation.html
-
-TP - shell
+- gitmoji
+    - https://gitmoji.dev/
