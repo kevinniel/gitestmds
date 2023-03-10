@@ -34,12 +34,15 @@
 - .gitignore
     - Permet de lister les fichiers / dossiers à ne pas intégrer dans GIT
 - issues
+    - Permet de relever un problème / une question
+    - Peut etre automatiquement fermée par un commit en précisant "Fix" et le numéro de l'issue en message de commit (ex : "Fix #20" ferme l'issue #20)
+- alias
+    - Permet de créer des raccourcis pour les commandes shell. Ex : ```alias .="cd .."```
+
+
 
 
 Reste à voir :
 - git flow
-- issues ? milestones ?
-- git blame
-- alias
 
 TP - shell
