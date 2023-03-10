@@ -1,0 +1,1 @@
+https://www.linkedin.com/in/eliott-le-duc-291980205/
